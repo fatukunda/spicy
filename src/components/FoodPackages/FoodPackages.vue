@@ -70,7 +70,7 @@ export default {
 <style scoped>
 .food-packages {
   background: #fffbfb;
-  height: 500px;
+  height: 450px;
 }
 .food {
   color: #fdbe31;
