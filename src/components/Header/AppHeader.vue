@@ -77,7 +77,7 @@ a {
   font-size: 13px;
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 600px) {
   .brand {
     margin-left: 0;
     text-align: center;

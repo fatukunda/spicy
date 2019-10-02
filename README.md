@@ -1,34 +1,24 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b43a2093-db9c-4f88-9bb2-cbb37c907eaf/deploy-status)](https://app.netlify.com/sites/spicyfoods/deploys)
+
 # spicy
 
-## Project setup
+## About the Project
 ```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn run serve
+Spicy is a template built with Vue.js to demonstrate my UI/UX skills
 ```
 
-### Compiles and minifies for production
+### Technologies Used
 ```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
+ - Vue.js
+ - Bootstrap 4
+ - HTML
+ - CSS
 ```
 
-### Lints and fixes files
+### How to test the Project locally
 ```
-yarn run lint
-```
-
-### Run your unit tests
-```
-yarn run test:unit
+ - Clone the repo onto your local machine by running the command `git clone https://github.com/fatukunda/spicy.git`.
+ - Install dependencies by running `yarn install`.
+ - Run the application by running `yarn serve`.
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
