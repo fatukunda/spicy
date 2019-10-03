@@ -3,6 +3,7 @@
     <AppHeader />
     <FoodPackages />
     <EatingTips />
+    <ClientTestimony />
   </div>
 </template>
 
@@ -11,13 +12,15 @@
 import AppHeader from "@/components/Header/AppHeader";
 import FoodPackages from "@/components/FoodPackages//FoodPackages";
 import EatingTips from "@/components/EatingTips/EatingTips";
+import ClientTestimony from "@/components/ClientTestimony/ClientTestimony";
 
 export default {
   name: "home",
   components: {
     AppHeader,
     FoodPackages,
-    EatingTips
+    EatingTips,
+    ClientTestimony
   }
 };
 </script>
