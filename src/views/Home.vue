@@ -4,6 +4,8 @@
     <FoodPackages />
     <EatingTips />
     <ClientTestimony />
+    <AppAdvert />
+    <AppFooter />
   </div>
 </template>
 
@@ -13,6 +15,8 @@ import AppHeader from "@/components/Header/AppHeader";
 import FoodPackages from "@/components/FoodPackages//FoodPackages";
 import EatingTips from "@/components/EatingTips/EatingTips";
 import ClientTestimony from "@/components/ClientTestimony/ClientTestimony";
+import AppAdvert from "@/components/AppAdvert/AddAdvert";
+import AppFooter from "../components/Footer/AppFooter";
 
 export default {
   name: "home",
@@ -20,7 +24,9 @@ export default {
     AppHeader,
     FoodPackages,
     EatingTips,
-    ClientTestimony
+    ClientTestimony,
+    AppAdvert,
+    AppFooter
   }
 };
 </script>
